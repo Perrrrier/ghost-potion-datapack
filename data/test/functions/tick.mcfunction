@@ -1,0 +1,1 @@
+execute as @a run execute if entity @s[scores={drank_potion=1..}] run function test:on_drank_potion
